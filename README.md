@@ -1,2 +1,3 @@
 # My-first-project
-# Kushagra mishra
+ Kushagra mishra is author of this project
+
